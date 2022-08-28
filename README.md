@@ -1,14 +1,16 @@
-<h1 align="center">Hi there 👋, I'm Hanif</h1>
-<h3 align="center">A passionate frontend developer from Yogyakarta, Indonesia</h3>
-
+Hi there 👋, I'm Hanif
+======================
+### A passionate frontend developer from Yogyakarta, Indonesia
+  
 <br>
 
 🌱 I’m currently learning **Express.js and Vue.js**
 
 📝 I regularly write articles on [unipwarehouse.github.io](unipwarehouse.github.io)
 
-📫 How to reach me **t.me/hellounip or abdurrahman.alhanif@gmail.com**
+📫 Reach me on **[telegram](https://t.me/hellounip) or abdurrahman.alhanif@gmail.com**
 
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
