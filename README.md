@@ -1,6 +1,6 @@
 Hi there 👋, I'm Hanif
 ======================
-### A passionate frontend developer from Yogyakarta, Indonesia
+### A passionate UI designer & frontend developer from Yogyakarta, Indonesia
   
 <br>
 
