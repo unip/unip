@@ -4,7 +4,7 @@ Hi there 👋, I'm Hanif
   
 <br>
 
-🌱 I’m currently learning **Express.js and Vue.js**
+🌱 I’m currently learning **REST API creation with Bun**
 
 📝 I regularly write articles on [unipwarehouse.github.io](unipwarehouse.github.io)
 
